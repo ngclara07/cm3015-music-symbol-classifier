@@ -76,14 +76,14 @@ The application uses:
 * NumPy
 * SciPy
 * scikit-learn
-* Joblib
+* joblib
 * Pillow
 
 ## Model
 
 The deployed model is stored at:
 
-> saved_models/music_symbol_svm_bundle.joblib
+`saved_models/music_symbol_svm_bundle.joblib`
 
 ## Deployment
 
