@@ -76,7 +76,7 @@ The application uses:
 * NumPy
 * SciPy
 * scikit-learn
-* Joblib
+* joblib
 * Pillow
 
 ## Model
